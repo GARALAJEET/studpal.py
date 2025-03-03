@@ -1,0 +1,7 @@
+Timetable
+---------------------------------
+Day:1
+Location: 406-4
+SUbject: FSD
+number of lectures: 1
+---------------------------------

@@ -1,0 +1,4 @@
+  Expenses List  
+---------------------------------
+Amount: 50.00  Category:at lj  Date:2025-02-27   Description: at lj
+---------------------------------
